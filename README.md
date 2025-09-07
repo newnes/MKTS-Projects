@@ -1,24 +1,26 @@
-# MKTS-Projects Research Lab
+# MKTS-Projects Quantitative Research Lab
 
-Bienvenido al espacio de investigación cuantitativa donde las matemáticas fractales y el flujo de capital se fusionan para crear herramientas de trading avanzadas.
+Welcome to the quantitative research space where fractal mathematics and capital flow converge to create advanced trading tools.
 
-## Proyectos Destacados
+## Featured Projects
 
 ### Jump into Fractal Dispersion
-Una exploración visual y matemática de cómo los patrones fractales pueden predecir la dispersión de la volatilidad en mercados financieros. [Ver Carpeta](./Jump_into_Fractal_Dispersion_Studio/)
+A visual and mathematical exploration of how fractal patterns can predict volatility dispersion in financial markets. [View Folder](./Jump_into_Fractal_Dispersion_Studio/)
 
-### EndFlow Momentum
-Un indicador de flujo de capital en tiempo real que identifica la acumulación y distribución institucional con un enfoque geométrico. [Ver Carpeta](./EndFlow_Momentum_Studio/)
+### EndFlow Momentum  
+A real-time capital flow indicator that identifies institutional accumulation and distribution using a geometric approach. [View Folder](./EndFlow_Momentum_Studio/)
+
+---
+
+## Exclusive Access - Patrick Nill
+I've prepared a special version of EndFlow Momentum for your exclusive use for 3 months. Find it in the [Exclusive](./Exclusive/Patrick_Nill/) folder.
+
+**Installation instructions:**
+1. Download the `.ex5` file
+2. Place it in your MetaTrader 5 `MQL5/Indicators/` folder
+3. Restart MT5 and drag the indicator onto your chart
+4. Use activation key: `[PASSWORD_HERE]`
 
 ---
 
-## Acceso Exclusivo - Patrick Nill
-He preparado una versión especial de EndFlow Momentum para tu uso exclusivo durante 3 meses. Encuéntrala en la carpeta [Exclusive](./Exclusive/Patrick_Nill/).
-
-**Instrucciones de instalación:**
-1. Descarga el archivo `.ex5`
-2. Colócalo en la carpeta `MQL5/Indicators/` de tu MetaTrader 5
-3. Reinicia MT5 y arrastra el indicador a tu chart
-4. Usa la clave de activación: `[PASSWORD_AQUÍ]`
-
----
+*"Markets are chaotic, but their chaos has geometric structure."*

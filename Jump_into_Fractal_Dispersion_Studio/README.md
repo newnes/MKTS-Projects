@@ -38,4 +38,4 @@ Este indicador está **optimizado y probado específicamente** para el par **XAU
 
 ---
 
-*"El volumen no miente. Solo hay que aprender a leer su huella." - NFX*
+*"El volumen no miente. Solo hay que aprender a leer su huella."*

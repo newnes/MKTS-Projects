@@ -4,11 +4,13 @@ Welcome to the quantitative research space where fractal mathematics and capital
 
 ## Featured Projects
 
+### EndFlow Momentum  
+A real-time capital flow indicator that identifies institutional accumulation and distribution using a geometric approach. [View Folder](./EndFlow_Momentum_Studio/)
+
 ### Jump into Fractal Dispersion
 A visual and mathematical exploration of how fractal patterns can predict volatility dispersion in financial markets. [View Folder](./Jump_into_Fractal_Dispersion_Studio/)
 
-### EndFlow Momentum  
-A real-time capital flow indicator that identifies institutional accumulation and distribution using a geometric approach. [View Folder](./EndFlow_Momentum_Studio/)
+
 
 ---
 

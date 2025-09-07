@@ -12,13 +12,11 @@ The answer materializes in a dual-signal system and a 9-level structure that act
 
 The `EndFlow_Momentum_Nill.ex5` file is ready to be installed in your MetaTrader 5. I have disabled any licensing or expiration systems as a demonstration of transparency and confidence in the tool's value.
 
-**Installation (2 steps):**
-
-1.-Download the .ex5 file
-2.-Place it in your MetaTrader 5 MQL5/Indicators/ folder
-3.-Restart MT5 and drag the indicator onto your chart
-4.-Use activation key: [Add Pass]
-5.-For optimal performance, start your analysis on the M5 timeframe, then drill down to M1 for precise entry timing
+**Installation:**
+1. Download the `.ex5` file from this folder
+2. Place it in your MetaTrader 5 `MQL5/Indicators/` folder
+3. Restart MT5 and drag the indicator onto your chart
+4. For optimal performance, start your analysis on the **M5 timeframe**, then drill down to **M1** for precise entry timing
 
 ## 📖 Complete Documentation
 
@@ -39,10 +37,9 @@ Please don't hesitate to write if you have any questions.
 
 **Sincerely,**
 
-**Nestor Mendez** 
- 
-Developer of EndFlow Momentum 
-**Telegram: @feetonthehearth**
-**Phone number: +(52) 5568623213** 
+**Nestor Mendez**  
+Developer of EndFlow Momentum  
+**Telegram:** @feetonthehearth  
+**Phone:** +(52) 5568623213
 
 *"While most indicators follow price, EndFlow follows the money."*

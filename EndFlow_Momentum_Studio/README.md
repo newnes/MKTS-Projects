@@ -70,4 +70,4 @@ Este indicador está **optimizado y probado específicamente** para el par **XAU
 
 ---
 
-*"Mientras la mayoría de los indicadores siguen el precio, EndFlow sigue el dinero." - NFX*
+*"Mientras la mayoría de los indicadores siguen el precio, EndFlow sigue el dinero."*

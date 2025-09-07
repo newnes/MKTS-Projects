@@ -13,13 +13,14 @@ A real-time capital flow indicator that identifies institutional accumulation an
 ---
 
 ## Exclusive Access - Patrick Nill
-I've prepared a special version of EndFlow Momentum for your exclusive use for 3 months. Find it in the [Exclusive](./Exclusive/Patrick_Nill/) folder.
+I've prepared a special version of EndFlow Momentum for your exclusive use for 30 days. Find it in the [Exclusive](./Exclusive/Patrick_Nill/) folder.
 
 **Installation instructions:**
 1. Download the `.ex5` file
 2. Place it in your MetaTrader 5 `MQL5/Indicators/` folder
 3. Restart MT5 and drag the indicator onto your chart
-4. Use activation key: `[PASSWORD_HERE]`
+4. Use activation key: `[Add Pass]`
+5. For optimal performance, start your analysis on the **M5 timeframe**, then drill down to **M1** for precise entry timing
 
 ---
 

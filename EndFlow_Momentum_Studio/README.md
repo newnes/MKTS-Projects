@@ -8,7 +8,7 @@
 
 **A continuación, una muestra representativa de la precisión de JIFD en detectar impulsos de volumen y sus reversiones en el mercado del Oro:**
 
-![Señal JIFD en XAUUSD M1](./Visuals/2022-06-01.png) <!-- REPLACE "2022-06-01.png" WITH YOUR ACTUAL FILENAME -->
+![Señal JIFD en XAUUSD M1](./Visuals/2024-03-21.png) <!-- REPLACE "2024-03-19.png" WITH YOUR ACTUAL FILENAME -->
 *Ejemplo de la huella de volumen alcista (Lime) y bajista (Red) en XAUUSD, con la reversión a la media hipotética (Cyan) en timeframe M1.*
 
 ---

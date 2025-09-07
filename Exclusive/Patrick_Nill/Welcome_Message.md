@@ -16,7 +16,7 @@ The `EndFlow_Momentum_Nill.ex5` file is ready to be installed in your MetaTrader
 1. Download the `.ex5` file from this folder
 2. Place it in your MetaTrader 5 `MQL5/Indicators/` folder
 3. Restart MT5 and drag the indicator onto your chart
-4.-Use activation key: [Add Pass]
+4. Use activation key: [Add Pass]
 5. For optimal performance, start your analysis on the **M5 timeframe**, then drill down to **M1** for precise entry timing
 
 ## 📖 Complete Documentation

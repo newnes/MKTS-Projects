@@ -19,7 +19,7 @@ El archivo `EndFlow_Momentum_Nill.ex5` está listo para ser instalado en tu Meta
 ## 📖 Documentación Completa
 
 Toda la base técnica, el manual de interpretación de señales y ejemplos de backtesting están disponibles en el repositorio principal:
-[NFX Quantitative Research Lab](https://github.com/tuusuario/MKTS-Projects)
+[Quantitative Research Lab](https://github.com/newnes/MKTS-Projects/tree/master/EndFlow_Momentum_Studio)
 
 Te recomiendo especialmente el `Technical_Specs.md` para entender la lógica detrás de los 9 niveles.
 

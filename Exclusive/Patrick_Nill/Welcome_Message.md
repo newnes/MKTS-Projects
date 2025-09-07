@@ -1,8 +1,8 @@
 # 🎯 Welcome, Patrick Nill
 
-It is a genuine honor for me that you have access to **EndFlow Momentum (EFM)**. As an admirer of your trajectory and competitive mindset, I have developed this tool with the same rigor and pursuit of excellence that characterizes a World Trading Champion.
+It is a genuine honor for me that you have access to **End Flow Momentum (EFM)**. As an admirer of your trajectory and competitive mindset, I have developed this tool with the same rigor and pursuit of excellence that characterizes a World Trading Champion.
 
-## ⚡ What is EndFlow Momentum
+## ⚡ What is End Flow Momentum
 
 EFM is not just another indicator. It is the result of years of research dedicated to solving a crucial question: **how to detect the market's true intention through capital flow?**
 
@@ -39,7 +39,7 @@ Please don't hesitate to write if you have any questions.
 **Sincerely,**
 
 **Nestor Mendez**  
-Developer of EndFlow Momentum  
+Developer of End Flow Momentum  
 **Telegram:** @feetonthehearth  
 **Phone:** +(52) 5568623213
 

@@ -1,73 +1,73 @@
 # ⚡ End Flow Momentum (EFM) - XAUUSD M1
 
-**Estudio especializado en el análisis de flujo de capital en tiempo real en el par XAU/USD (Oro) en el timeframe de 1 minuto.**
+**A specialized studio for real-time capital flow analysis on the XAUUSD (Gold) pair on the 1-5 minutes timeframes.**
 
 ---
 
-## 🔥 Señal en Tiempo Real - XAUUSD M1
+## 🔥 Live Signal Example - XAUUSD M1
 
-**A continuación, una muestra representativa de la precisión de EFM en detectar el flujo de capital y cambios de momentum en el mercado del Oro:**
+**Below is a representative sample of EFM's precision in detecting capital flow and momentum shifts in the Gold market:**
 
-![Señal EFM en XAUUSD M1](./Visuals/2024-03-21.png)
-*Ejemplo del sistema de doble señal: Flujo instantáneo (Cyan) y momentum acumulativo (Lime/Red) con la estructura de 9 niveles en XAUUSD M1.*
-
----
-
-## 📖 ¿Qué estoy viendo?
-
-### Señales Principales
--   **Línea Cyan (Azul):** **Flujo Instantáneo.** Muestra la dirección del flujo de capital en tiempo real.
--   **Línea Lime (Verde):** **Momentum Alcista.** Señal acumulativa que indica presión compradora sostenida.
--   **Línea Red (Roja):** **Momentum Bajista.** Señal acumulativa que indica presión vendedora sostenida.
-
-### Estructura de 9 Niveles
--   **Líneas Rojas (a, i):** Límites de agotamiento (techo/suelo) - Zonas de reversión potencial
--   **Líneas Magenta (b, h):** Niveles de validación de impulso - Confirmación de fuerza direccional
--   **Líneas Blancas (c, g):** Puntos de equilibrio intermedio - Soporte/resistencia dinámica
--   **Líneas Grises (d, f):** Orígenes de demanda/oferta - Base de los movimientos
--   **Línea Azul (e):** **Equilibrio Central** - Eje estructural principal del indicador
-
-**En el mercado del Oro (XAUUSD) en M1,** EFM captura el flujo de capital tick a tick, anticipando micro-movimientos con alta precisión.
+![EFM Signal on XAUUSD M1](./Visuals/2024-03-21.png)
+*Example of the dual-signal system: Instant Flow (Cyan) and Cumulative Momentum (Lime/Red) with the 9-level structure on XAUUSD M1.*
 
 ---
 
-## 📁 Contenido de Esta Carpeta
+## 📖 What Am I Seeing?
 
-| Elemento | Descripción |
+### Core Signals
+-   **Cyan Line:** **Instant Flow.** Shows the direction of capital flow in real-time.
+-   **Lime Line:** **Bullish Momentum.** Cumulative signal indicating sustained buying pressure.
+-   **Red Line:** **Bearish Momentum.** Cumulative signal indicating sustained selling pressure.
+
+### 9-Level Structure
+-   **Red Lines (a, i):** Exhaustion Boundaries (Ceiling/Floor) - Potential reversal zones
+-   **Magenta Lines (b, h):** Impulse Validation Levels - Confirmation of directional strength
+-   **White Lines (c, g):** Midpoint Equilibrium Levels - Dynamic support/resistance
+-   **Gray Lines (d, f):** Demand/Supply Origins - Foundation of price movements
+-   **Blue Line (e):** **Central Equilibrium** - Main structural axis of the indicator
+
+**In the Gold market (XAUUSD) on M1,** EFM captures tick-by-tick capital flow, anticipating micro-movements with high precision.
+
+---
+
+## 📁 Contents of This Folder
+
+| Element | Description |
 |:---|:---|
-| [**Technical_Specs.md**](./Technical_Specs.md) | Documento técnico completo con la base matemática y explicación avanzada del sistema EFM. |
-| [**Visuals/**](./Visuals/) | Galería con ejemplos visuales del indicador en acción en **XAUUSD M1**. |
+| [**Technical_Specs.md**](./Technical_Specs.md) | Complete technical document with mathematical foundation and advanced explanation of the EFM system. |
+| [**Visuals/**](./Visuals/) | Gallery with visual examples of the indicator in action on **XAUUSD M1**. |
 
 ---
 
-## ⚡ Aplicación Práctica en Múltiples Timeframes
+## ⚡ Practical Application Across Multiple Timeframes
 
-EFM es una herramienta versátil que se adapta a diferentes estilos de trading:
+EFM is a versatile tool that adapts to different trading styles:
 
-### 🎯 Scalping (Corto Plazo)
+### 🎯 Scalping (Short-Term)
 -   **Timeframes:** M1 - M15
--   **Uso:** Ideal para operaciones de cortísimo plazo, capturando micro-movimientos impulsados por flujos de capital inmediatos.
+-   **Use:** Ideal for ultra-short-term operations, capturing micro-movements driven by immediate capital flows.
 
-### 📈 Swing Trading (Mediano Plazo)  
+### 📈 Swing Trading (Medium-Term)
 -   **Timeframes:** H1 - H4
--   **Uso:** Detección de posibles máximos y mínimos swing mediante los niveles de agotamiento.
+-   **Use:** Detection of potential swing highs and lows through exhaustion levels.
 
-### 📊 Análisis de Posicionamiento (Largo Plazo)
--   **Timeframes:** D1 - Semanal
--   **Uso:** Identificación de zonas de acumulación/distribución institucional.
+### 📊 Position Analysis (Long-Term)
+-   **Timeframes:** D1 - Weekly
+-   **Use:** Identification of institutional accumulation/distribution zones.
 
-### 🎮 Confirmación Universal
--   Usar las señales cyan y lime/red para confirmar direccionalidad en cualquier timeframe.
+### 🎮 Universal Confirmation
+-   Use the cyan and lime/red signals to confirm directionality on any timeframe.
 
-### 🛡️ Gestión de Riesgo
--   Los 9 niveles proporcionan objetivos y stops naturales en cualquier estilo operativo.
-
----
-
-## ⚠️ Nota Importante
-
-Este indicador está **optimizado y probado específicamente** para el par **XAUUSD (Oro)** en el **timeframe M1 (1 minuto)**. Si bien funciona en otros activos y timeframes, su máximo rendimiento se obtiene en esta configuración.
+### 🛡️ Risk Management
+-   The 9 levels provide natural profit targets and stop-loss levels for any trading style.
 
 ---
 
-*"Mientras la mayoría de los indicadores siguen el precio, EndFlow sigue el dinero."*
+## ⚠️ Important Note
+
+This indicator is **specifically optimized and tested** for the **XAUUSD (Gold)** pair on the **M1 (1-minute) timeframe**. While it works on other assets and timeframes, its maximum performance is achieved in this configuration.
+
+---
+
+*"While most indicators follow price, EndFlow follows the money."*

@@ -1,46 +1,43 @@
-# Jump into Fractal Dispersion (JIFD) - Especificaciones Técnicas
+# Jump into Fractal Dispersion (JIFD) - Technical Specifications
 
-## Visión General del Concepto
+## Concept Overview
 
-**JIFD** es un indicador avanzado que trasciende el análisis de volumen tradicional. No solo mide la *cantidad* de operaciones, sino que **mapea la huella fractal (dispersión) que los impulsos de volumen dejan en la estructura de precios**.
+**JIFD** is an advanced indicator that transcends traditional volume analysis. It doesn't just measure trade *quantity*, but **maps the fractal footprint (dispersion) that volume impulses leave on the price structure**.
 
-Identifica zonas de acumulación y distribución *reales* —que no necesariamente coinciden con picos o valles de precio— mediante la relación entre el flujo de capital (volumen) y la dispersión fractal del precio que este genera. Esto permite detectar la "manipulación silenciosa" y anticipar movimientos de reversión a la media de la huella de volumen.
+It identifies *real* accumulation and distribution zones—which don't necessarily coincide with price peaks or valleys—through the relationship between capital flow (volume) and the fractal dispersion of price that it generates. This allows detection of "silent manipulation" and anticipation of reversal movements to the volume footprint's mean.
 
-## Base Matemática
+## Mathematical Foundation
 
-### Núcleo del Cálculo: Huella de Volumen Fractal
-El algoritmo propietario de JIFD opera en múltiples *timeframes* para calcular la **media hipotética de volumen operado** de un activo. A partir de esta base, identifica **impulsos alcistas y bajistas significativos** que dejan una "huella" en el precio.
+### Calculation Core: Fractal Volume Footprint
+JIFD's proprietary algorithm operates across multiple *timeframes* to calculate an asset's **hypothetical average traded volume**. From this baseline, it identifies **significant bullish and bearish impulses** that leave a "footprint" on price.
 
-**La innovación clave:** JIFD no asume que estos impulsos ocurran solo en máximos o mínimos. Detecta la huella de volumen en cualquier punto del recorrido del precio, revelando la dinámica real de la acumulación y distribución.
+**The key innovation:** JIFD doesn't assume these impulses only occur at highs or lows. It detects volume footprints anywhere along price's journey, revealing the true dynamics of accumulation and distribution.
 
+### Visual Signals and Interpretation
+The indicator consists of three master lines representing the numerical value of the volume footprint:
 
-### Señales Visuales e Interpretación
-El indicador se compone de tres líneas maestras que representan el valor numérico de la huella de volumen:
-
-| Señal | Color | Descripción |
+| Signal | Color | Description |
 |:---|:---:|:---|
-| **Línea de Huella Alcista** | `Lime` | Representa el límite numérico superior alcanzado por impulsos de volumen comprador. Una ruptura por arriba sugiere una posible continuación alcista **sostenible**. |
-| **Línea de Media Hipotética** | `Cyan` | Actúa como el eje de equilibrio. Una reversión a esta línea después de un impulso confirma la fuerza de la huella inicial. |
-| **Línea de Huella Bajista** | `Red` | Representa el límite numérico inferior alcanzado por impulsos de volumen vendedor. Una ruptura por debajo sugiere una posible continuación bajista **sostenible**. |
+| **Bullish Footprint Line** | `Lime` | Represents the upper numerical limit reached by buying volume impulses. A breakout above suggests potential **sustainable** bullish continuation. |
+| **Hypothetical Mean Line** | `Cyan` | Acts as the equilibrium axis. A reversal to this line after an impulse confirms the strength of the initial footprint. |
+| **Bearish Footprint Line** | `Red` | Represents the lower numerical limit reached by selling volume impulses. A breakout below suggests potential **sustainable** bearish continuation. |
 
+## Technical Advantage and Application
 
-## Ventaja Técnica y Aplicación
+### Market Dynamics JIFD Reveals:
+1.  **Stealth Accumulation/Distribution:** Identifies large operations that occur not at extremes, but within trend development.
+2.  **Reversion to Footprint Mean:** Price typically reverts to the hypothetical mean (`Cyan`) after testing a footprint (`Lime`/`Red`), especially without sufficient volume for sustained breakout.
+3.  **Sustainable vs. False Breakouts:** A breakout *with confirmatory volume* beyond a previous footprint is a highly reliable continuation signal.
 
-### Dinámica de Mercado que JIFD Revela:
-1.  **Acumulación/Distribución Encubierta:** Identifica grandes operaciones que no ocurren en los extremos, sino en el desarrollo de la tendencia.
-2.  **Reversión a la Huella Media:** El precio suele revertir hacia la media hipotética (`Cyan`) después de probar una huella (`Lime`/`Red`), especialmente si no hay volumen suficiente para una ruptura sostenida.
-3.  **Rupturas Sostenibles vs. Falsas:** Una ruptura *con volumen confirmatorio* más allá de una huella previa es una señal de alta confiabilidad de continuación.
+### Trading Application:
+- **Dynamic Support/Resistance:** Lime and Red lines act as support and resistance levels based on actual volume.
+- **Breakout Confirmation:** A price breakout accompanied by a volume footprint breakout confirms the movement's validity.
+- **Weakness Detection:** If price exceeds a footprint but cannot close beyond it, indicates exhaustion and potential reversal.
 
-### Aplicación en Trading:
-- **Soporte/Resistencia Dinámicos:** Las líneas Lime y Red actúan como niveles de soporte y resistencia basados en volumen real.
-- **Confirmación de Rupturas:** Una ruptura de precio acompañada de una ruptura de la huella de volumen confirma la validez del movimiento.
-- **Detección de Debilidad:** Si el precio supera una huella pero no puede cerrar fuera de ella, indica agotamiento y una posible reversión.
+## Limitations and Considerations
 
-## Limitaciones y Consideraciones
-
-- El indicador es **lagging** por naturaleza, ya que requiere que el impulso de volumen ya haya ocurrido para formar la huella.
-- Funciona mejor en activos con **alto volumen y liquidez** (índices, Forex mayores, grandes capitalizaciones).
-- La "media hipotética" es dinámica y se adapta a las condiciones cambiantes del mercado.
+- The indicator is **inherently lagging** as it requires the volume impulse to have already occurred to form the footprint.
+- Works best with **high-volume, liquid assets** (indices, major Forex pairs, large caps).
+- The "hypothetical mean" is dynamic and adapts to changing market conditions.
 
 ---
-*Última actualización: $(date +%Y-%m-%d)*

@@ -1,8 +1,8 @@
-# EndFlow Momentum: Capital Flow Analysis with a Geometric Approach
+# End Flow Momentum: Capital Flow Analysis with a Geometric Approach
 
 ## 🔍 Overview
 
-**EndFlow Momentum** is an advanced technical indicator that merges volume, price, and volatility analysis into a unique visual tool. Designed for premium traders seeking a competitive edge in financial market analysis, it combines mathematical principles with sophisticated technical implementation to identify real money flow.
+**End Flow Momentum** is an advanced technical indicator that merges volume, price, and volatility analysis into a unique visual tool. Designed for premium traders seeking a competitive edge in financial market analysis, it combines mathematical principles with sophisticated technical implementation to identify real money flow.
 
 ---
 
@@ -68,7 +68,7 @@ The indicator defines nine critical levels that form a complete framework for ma
 
 ## ⚠️ Important Note
 
-**EndFlow Momentum** is a sophisticated decision-support tool designed to give you an edge in market analysis. It does not, however, guarantee trading results. The indicator must be used as part of a comprehensive trading strategy that includes **proper risk management.** Always backtest and forward-test any strategy before deploying live capital.
+**End Flow Momentum** is a sophisticated decision-support tool designed to give you an edge in market analysis. It does not, however, guarantee trading results. The indicator must be used as part of a comprehensive trading strategy that includes **proper risk management.** Always backtest and forward-test any strategy before deploying live capital.
 
 ---
 *"While most indicators follow price, EndFlow follows the money."*

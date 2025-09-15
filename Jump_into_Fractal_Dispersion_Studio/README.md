@@ -38,4 +38,4 @@ This indicator is **specifically optimized and tested** for the **XAUUSD (Gold)*
 
 ---
 
-*"Volume doesn't lie. You just need to learn to read its footprint." - NFX*
+*"Volume doesn't lie. You just need to learn to read its footprint."*

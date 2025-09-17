@@ -31,6 +31,43 @@
 
 ---
 
+## 🔍 The 6 EFM Quadrants: Reading Market Intent
+
+EFM’s strength lies in interpreting the relationship between its two primary signals and the central equilibrium.  
+This creates **six distinct market scenarios**:
+
+| Quadrant | Condition        | Narrative                                         | Trading Bias        |
+|:--------:|:-----------------|:--------------------------------------------------|:-------------------|
+| **1 – Bullish Momentum**    | `IF > CM > CE` | Strong, sustained buying pressure            | 🟢 **Strong Buy** |
+| **2 – Bullish Correction**  | `CM > IF > CE` | Healthy pullback within an uptrend           | 🟡 **Buy on Dips** |
+| **3 – Bearish Momentum**    | `IF < CM < CE` | Strong, sustained selling pressure           | 🔴 **Strong Sell** |
+| **4 – Bearish Correction**  | `CM < IF < CE` | Healthy bounce within a downtrend            | 🟠 **Sell on Rallies** |
+| **5 – Bull Trap / Accumulation** | `IF < CE < CM` | False breakdown. Weak price, smart money accumulating | ⚪ **Buying Opportunity** |
+| **6 – Bear Trap / Distribution** | `IF > CE > CM` | False breakout. Strong price, smart money distributing | ⚫ **Selling Opportunity** |
+
+> **Legend:**  
+> IF = *Instant Flow* · CM = *Cumulative Momentum* · CE = *Central Equilibrium*
+
+---
+
+### 💡 Why This Matters
+- ✅ Distinguish genuine trends from manipulative traps  
+- ✅ Identify smart money accumulation/distribution zones  
+- ✅ Avoid false breakouts (the #1 cause of retail trader losses)  
+- ✅ Anticipate market moves before price confirms  
+
+---
+
+## ⚡ Competitive Advantages
+
+- 🚀 **Foresight Over Hindsight** – Instant Flow delivers leading signals before price movement  
+- 🛡️ **Trap Protection** – Detects stop hunts and false breakouts  
+- 🧠 **Context-Aware** – Provides a complete market narrative, not just isolated signals  
+- ⚖️ **Universal Framework** – Works across timeframes and liquid instruments  
+- 📊 **Flow-Based Edge** – Follows money flow instead of lagging price action
+
+---
+
 ## 📁 Contents of This Folder
 
 | Element | Description |

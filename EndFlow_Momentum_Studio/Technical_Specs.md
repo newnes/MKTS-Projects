@@ -42,8 +42,8 @@ EFM’s core power lies in interpreting the relationship between its two signals
 | **2 – Bullish Correction** | `CM > IF > CE` | Healthy pullback within an uptrend | 🟡 **Buy Dips** |
 | **3 – Bearish Momentum** | `IF < CM < CE` | Strong selling pressure, sustained bearish trend | 🔴 **Aggressive Short** |
 | **4 – Bearish Correction** | `CM < IF < CE` | Healthy bounce within a downtrend | 🟠 **Sell Rallies** |
-| **5 – Bull Trap / Accumulation** | `IF < CE < CM` | False breakdown, smart money accumulating | ⚪ **Reversal Long** |
-| **6 – Bear Trap / Distribution** | `IF > CE > CM` | False breakout, smart money distributing | ⚫ **Reversal Short** |
+| **5 – Bear Trap / Accumulation** | `IF < CE < CM` | False breakdown, smart money accumulating | ⚪ **Reversal Long** |
+| **6 – Bull Trap / Distribution** | `IF > CE > CM` | False breakout, smart money distributing | ⚫ **Reversal Short** |
 
 > **Legend:**  
 > IF = Instant Flow · CM = Cumulative Momentum · CE = Central Equilibrium  

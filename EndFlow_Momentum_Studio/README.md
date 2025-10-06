@@ -42,8 +42,8 @@ This creates **six distinct market scenarios**:
 | **2 – Bullish Correction**  | `CM > IF > CE` | Healthy pullback within an uptrend           | 🟡 **Buy on Dips** |
 | **3 – Bearish Momentum**    | `IF < CM < CE` | Strong, sustained selling pressure           | 🔴 **Strong Sell** |
 | **4 – Bearish Correction**  | `CM < IF < CE` | Healthy bounce within a downtrend            | 🟠 **Sell on Rallies** |
-| **5 – Bull Trap / Accumulation** | `IF < CE < CM` | False breakdown. Weak price, smart money accumulating | ⚪ **Buying Opportunity** |
-| **6 – Bear Trap / Distribution** | `IF > CE > CM` | False breakout. Strong price, smart money distributing | ⚫ **Selling Opportunity** |
+| **5 – Bear Trap / Accumulation** | `IF < CE < CM` | False breakdown. Weak price, smart money accumulating | ⚪ **Buying Opportunity** |
+| **6 – Bull Trap / Distribution** | `IF > CE > CM` | False breakout. Strong price, smart money distributing | ⚫ **Selling Opportunity** |
 
 > **Legend:**  
 > IF = *Instant Flow* · CM = *Cumulative Momentum* · CE = *Central Equilibrium*
